@@ -36,7 +36,10 @@
 <img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />       
 <img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />       
 <img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<br/>
+
+#
+
+<h3>:bar_chart: Stats</h3>
 
 ![ShirayDan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShirayDan&show_icons=true&theme=dark)
 
