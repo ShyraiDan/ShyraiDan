@@ -4,7 +4,7 @@
 <p align="left">
 	<a href="https://www.linkedin.com/in/danylo-shyrai-92b3b6261/">
 		<img
-			src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-150458.svg?style=for-the-badge&logoColor=white&logo=link"
+			src="https://custom-icon-badges.demolab.com/badge/-CV-0a4ac9.svg?style=for-the-badge&logoColor=white&logo=link"
 			alt="LinkedIn"
 			title="Follow me on LinkedIn" />
 	</a>
