@@ -1,4 +1,4 @@
-Danylo Shiray
+<h1>Danylo Shiray</h1>
 
 **`Frontend developer`**
 
