@@ -1,5 +1,6 @@
 Danylo Shiray
-**`Frontent developer`**
+
+**`Frontend developer`**
 
 
 <!--
