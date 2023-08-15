@@ -1,4 +1,4 @@
-<h1>:man_technologist: Danylo Shiray</h1>
+<h1 align="left">:man_technologist: Danylo Shiray</h1>
 
 **`Frontend developer`**
 <p align="left">
@@ -25,7 +25,7 @@
 
 #
 
-<h3>:gear: Languages and Tools</h3>
+<h3 align="left">:gear: Languages and Tools</h3>
 <p align="left">
 <img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
 <img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />       
@@ -41,7 +41,7 @@
 
 #
 
-<h3>:bar_chart: Stats</h3>
+<h3 align="left">:bar_chart: Stats</h3>
 
 ![ShirayDan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShirayDan&show_icons=true&theme=dark)
 
