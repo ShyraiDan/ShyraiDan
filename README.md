@@ -17,7 +17,7 @@
 	<a
 		href="https://www.linkedin.com/feed/update/urn:li:activity:7097272911568195584/">
 		<img
-			src="https://custom-icon-badges.demolab.com/badge/-CV-34eb61.svg?style=for-the-badge&logoColor=white&logo=link"
+			src="https://custom-icon-badges.demolab.com/badge/-CV-0ac938.svg?style=for-the-badge&logoColor=white&logo=link"
 			alt="CV"
 			title="See my CV" />
 	</a>
