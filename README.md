@@ -1,4 +1,4 @@
-# :man_technologist: Danylo Shiray
+# :man_technologist: Danylo Shyrai
 
 **`Frontend developer`**
 <p align="left">
