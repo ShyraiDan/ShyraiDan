@@ -11,7 +11,7 @@ I’m a front-end developer with 1.5 years of experience building web and mobile
 🎨 **Markup & Styling**: HTML, CSS, Tailwind CSS, Material UI, ShadCN UI, Styled Components, Bootstrap  
 🛠️ **Languages & Core**: JavaScript, TypeScript  
 ⚛️ **Frontend**: React, Next.js, Vite  
-📦 **State & Data**: Redux Toolkit, TanStack Query, useSWR, TanStack Table, Victory  
+📦 **State & Data**: RTK Query, TanStack Query, useSWR, TanStack Table, Victory  
 🧾 **Forms & Validation**: React Hook Form, Zod  
 🌐 **Internationalization**: i18n, next-intl  
 📱 **Mobile**: Expo, React Native, NativeWind, React-native-reanimated, Victory-native  
