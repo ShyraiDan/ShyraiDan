@@ -1,6 +1,6 @@
-# Hey there, I'm a Front End Engineer from Ukraine 👋
+# Hey there, I'm a Frontend Engineer from Ukraine 👋
 
-I’m a front-end developer with 1.5 years of experience building web and mobile apps and user interfaces. I’ve contributed to complex, scalable features across startup and enterprise contexts, using modern tools like JavaScript, React, Next.js, React Native, Expo and TypeScript to deliver clean, maintainable solutions. I adapt quickly to client needs, collaborate effectively, and communicate clearly. My focus is on shipping products that drive business results and create real value for users.
+I’m a frontend developer with 1.5 years of experience building web and mobile apps and user interfaces. I’ve contributed to complex, scalable features across startup and enterprise contexts, using modern tools like JavaScript, React, Next.js, React Native, Expo and TypeScript to deliver clean, maintainable solutions. I adapt quickly to client needs, collaborate effectively, and communicate clearly. My focus is on shipping products that drive business results and create real value for users.
 
 ### 🚀 Featured Projects:
 **Olivia** - a healthcare mobile & web application, created to support patients in keeping their medical data accessible & secured and analyzing their records using AI.  
