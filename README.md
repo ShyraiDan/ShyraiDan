@@ -1,33 +1,27 @@
-# :man_technologist: Danylo Shyrai
+# Hey there, I'm a Front End Engineer from Ukraine 👋
 
-**`Frontend developer`**
+I’m a mid-level front-end developer with 1.5 years of experience building web and mobile apps and user interfaces. I’ve contributed to complex, scalable features across startup and enterprise contexts, using modern tools like JavaScript, React, Next.js, React Native, Expo and TypeScript to deliver clean, maintainable solutions. I adapt quickly to client needs, collaborate effectively, and communicate clearly. My focus is on shipping products that drive business results and create real value for users.
 
-#
+### 🚀 Featured Projects:
+**Olivia** - a healthcare mobile & web application, created to support patients in keeping their medical data accessible & secured and analyzing their records using AI.  
+[**LangLearn**](https://www.langlearn.academy) - is a comprehensive, AI-powered language learning platform designed to make English learning faster, smarter, and more engaging.   
+[**BeClinic**](https://be-clinic-two.vercel.app) - a modern healthcare web platform for clinics and doctors, helping patients discover services, explore departments, and book visits with a clean, trustworthy UI. 
 
-### :gear: Languages and Tools
+### 🔧 Expertise in Tech Stack:
+🎨 **Markup & Styling**: HTML, CSS, Tailwind CSS, Material UI, ShadCN UI, Styled Components, Bootstrap  
+🛠️ **Languages & Core**: JavaScript, TypeScript  
+⚛️ **Frontend**: React, Next.js, Vite  
+📦 **State & Data**: Redux Toolkit, TanStack Query, useSWR, TanStack Table, Victory  
+🧾 **Forms & Validation**: React Hook Form, Zod  
+🌐 **Internationalization**: i18n, next-intl  
+📱 **Mobile**: Expo, React Native, NativeWind, React-native-reanimated, Victory-native  
+🗄️ **Backend & APIs**: Node.js, Express, MongoDB (Mongoose), REST API, Stripe  
+🚀 **Infra & Delivery**: Git, Vercel, AWS  
 
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />       
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://static-00.iconduck.com/assets.00/expo-icon-512x462-3a87htea.png" />
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /> 
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />              
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />       
-<img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-          
-          
-<br />
+### 🤝 Let’s collaborate
+Have an idea for the web? Let’s talk. I love turning concepts into products that help people and businesses grow—whether you need a quick prototype, scale-up support, or a careful polish.
 
-#
-
-### 📊 Stats
-
-![ShyraiDan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShyraiDan&show_icons=true&theme=dark)
-
-
+### 📬 Get in touch:
+[Gmail](mailto:dan.shirayy@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/danylo-shyrai-92b3b6261/)  
+[Telegram](https://t.me/BenderJun)  
