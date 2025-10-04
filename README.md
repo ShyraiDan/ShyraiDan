@@ -13,7 +13,7 @@ I’m a front-end developer with 1.5 years of experience building web and mobile
 ⚛️ **Frontend**: React, Next.js, Vite  
 📦 **State & Data**: RTK Query, TanStack Query, useSWR, TanStack Table, Victory  
 🧾 **Forms & Validation**: React Hook Form, Zod  
-🌐 **Internationalization**: i18n, next-intl  
+🌐 **Localization**: i18n, next-intl  
 📱 **Mobile**: Expo, React Native, NativeWind, React-native-reanimated, Victory-native  
 🗄️ **Backend & APIs**: Node.js, Express, MongoDB (Mongoose), REST API, Stripe  
 🚀 **Infra & Delivery**: Git, Vercel, AWS  
